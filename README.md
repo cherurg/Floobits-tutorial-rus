@@ -10,7 +10,7 @@ Floobits-tutorial-rus
 4. Набрать Floobits. Установить. Закрыть Sublime.
 5. Зарегистрироваться https://floobits.com/
 6. Перейти в домашний каталог, открыть файл .floorc.json
-7. Скопировать в файл то, что будет на этой странице: https://floobits.com/<your_flobits_nickname>/settings
+7. Скопировать в файл то, что будет на этой странице: https://floobits.com/имя на floobits/settings
 8. Присоединиться к проекту на floobits или создать свой.
 9. Открыть Sublime, нажать ctrl + shift + p, набрать floobits, выбрать join workspace
 10. В открывшуюся строку скопировать ссылку на рабочее пространство.
